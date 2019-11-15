@@ -1,0 +1,17 @@
+/**********************************
+* Auteur : Alexandre Jaboouley
+* Ecole Centrale Marseille
+* WebTrack
+***********************************/
+
+#header h1{
+    color: orange;
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a{
+    text-decoration: underline;
+    color:orange;
+}
